@@ -55,4 +55,4 @@ Each V1 round is a conditional reflection involution; inverse applies the six ro
 
 ## License
 
-No license has been selected yet.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
